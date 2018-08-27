@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txAwayTeam" type="id" />
+    <item name="txHomeTeam" type="id" />
+    <item name="txHomeScore" type="id" />
+    <item name="txAwayScore" type="id" />
+    <item name="txDate" type="id" />
+    <item name="bottom_navigation" type="id" />
+    <item name="listTeam" type="id" />
+    <item name="tabs" type="id" />
+    <item name="viewPager" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="spinner" type="id" />
+    <item name="listEvent" type="id" />
+    <item name="player_thumb" type="id" />
+    <item name="player_name" type="id" />
+    <item name="player_position" type="id" />
+</resources>
