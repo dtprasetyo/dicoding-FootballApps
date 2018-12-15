@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fitsSystemWindows="true"
-        tools:context="com.example.prasetyo.footballapps.detail.team.player.detail.PlayerDetailActivity">
+        tools:context=".ui.detail.team.player.detail.PlayerDetailActivity">
 
         <android.support.design.widget.AppBarLayout
             android:id="@+id/app_bar"
